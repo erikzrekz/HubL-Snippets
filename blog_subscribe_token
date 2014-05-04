@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+		 {% blog_subscribe "my_blog_subscribe" label="My Blog Subscribe", custom_form_html=None, no_title=False, title="" %}
+	</content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>blog_subscribe_mod</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.html</scope> -->
+</snippet>

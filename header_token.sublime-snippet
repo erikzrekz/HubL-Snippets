@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	{% header "my_header" label="My Header", header_tag="h1", value="" %}
+	]]></content>
+
+	<tabTrigger>header</tabTrigger>
+
+</snippet>

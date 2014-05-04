@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	{% rss_listing "my_rss_listing" label="My Rss Listing", attribution_text="by", click_through_text="Read more", content_group_id=0, is_external=False, limit_to_chars=200, number_of_items=5, publish_date_format="", publish_date_text="posted at", rss_url="", show_author=True, show_date=True, show_detail=True, show_title=True, title="" %}
+	]]></content>
+
+	<tabTrigger>rss</tabTrigger>
+
+</snippet>

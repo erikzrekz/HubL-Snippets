@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+
+		[hubspot-metadata]
+{
+    "path": "example/path/style.css"
+}
+[end-hubspot-metadata]
+
+
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	
+	<tabTrigger>uploader</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	
+	<scope>source.css</scope>
+</snippet>

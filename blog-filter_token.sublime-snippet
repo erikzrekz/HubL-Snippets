@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	{% post_filter "my_post_filter" label="My Post Filter", expand_link_text="see all", filter_type="topic", list_title="Lists by Topic", max_links=5, order_by="post_count", select_blog="default" %}
+	]]></content>
+
+	<tabTrigger>blog-filter</tabTrigger>
+
+</snippet>

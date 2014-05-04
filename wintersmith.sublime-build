@@ -1,0 +1,5 @@
+{
+	"cmd": ["wintersmith.cmd", "build", "-v"],
+	"path": "file://localhost/Users/eriks/Dropbox/projects/blog/",
+	"working_dir": "{project_path}"
+}

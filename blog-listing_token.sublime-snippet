@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	{% post_listing "my_post_listing" label="My Post Listing", list_title="Recent Posts", listing_type="recent", max_links=5, select_blog="default" %}
+	]]></content>
+
+	<tabTrigger>blog-listing</tabTrigger>
+
+</snippet>

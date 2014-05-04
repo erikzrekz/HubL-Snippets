@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	 {% social_sharing "my_social_sharing" label="My Social Sharing" %}
+	]]></content>
+
+	<tabTrigger>social</tabTrigger>
+
+</snippet>

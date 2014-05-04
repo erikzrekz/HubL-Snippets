@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	{% rich_text "my_rich_text" label="My Rich Text", html="<h1>Lorem ipsum dolor sit amet</h1>Consectetur <em>adipisicing</em> elit, sed do eiusmod tempor incididunt ut labore et dolore magna" %}
+	]]></content>
+
+	<tabTrigger>text</tabTrigger>
+
+</snippet>

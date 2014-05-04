@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+
+<div class="col-lg- col-md- col-sm- col-xs- widget-span widget-type- " style="" data-widget-type="" data-x="0" data-w="12">
+    <div class="cell-wrapper layout-widget-wrapper">
+        put module here
+    </div>
+</div>
+
+	]]></content>
+
+		<tabTrigger>widget_type</tabTrigger>
+
+</snippet>

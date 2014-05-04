@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	{% logo "logo" overrideable=False, label='Logo' %}
+	]]></content>
+	
+	<tabTrigger>logo</tabTrigger>
+	
+</snippet>

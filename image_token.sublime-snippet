@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	{% linked_image "my_linked_image" label="Image", alt="Click the button", hspace="", link="", src="", class="img-responsive"}
+	]]></content>
+
+	<tabTrigger>rss</tabTrigger>
+
+</snippet>
