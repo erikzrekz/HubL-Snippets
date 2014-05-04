@@ -4,7 +4,7 @@ HubSpot uses HubL tokens for their templates modules (http://designers.hubspot.c
 
 When you're creating a template from scratch or editing a local file in Sublime Text 2, it's nice to have shortcuts to the HubL tokens. 
 
-*To Use:* Download and import all .sublime-snippet files to Library/Application Support/Sublime Text 2/Packages/User.  
+**To Use:** Download and import all .sublime-snippet files to Library/Application Support/Sublime Text 2/Packages/User.  
 
 ## List of keybindings for modules
 - blog-filter, tab 
@@ -29,5 +29,5 @@ When you're creating a template from scratch or editing a local file in Sublime 
 - flex-column, tab
 - widget-type, tab
 
-**All documentation for HubSpot can be found either at developers.hubspot.com or designers.hubspot.com.**
+**All documentation for HubSpot can be found either at http://developers.hubspot.com or http://designers.hubspot.com.**
 
