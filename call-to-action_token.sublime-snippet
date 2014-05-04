@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	{% cta "my_cta" label="My Cta", embed_code="", guid="", image_html="", image_src="" %}
+	]]></content>
+
+	<tabTrigger>cta</tabTrigger>
+
+</snippet>

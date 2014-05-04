@@ -1,9 +1,0 @@
-<snippet>
-	<content>
-		{% google_search "my_google_search" label="My Google Search", prefill_input_with_pathname=False, search_button_text="Search Google", search_field_label="Search this site on Google" %}
-	</content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<!-- <tabTrigger>google_search_mod</tabTrigger> -->
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.html</scope> -->
-</snippet>

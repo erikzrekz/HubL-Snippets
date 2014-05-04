@@ -3,6 +3,6 @@
 	{% blog_subscribe "my_blog_subscribe" label="My Blog Subscribe", custom_form_html=None, no_title=False, title="" %}
 	]]></content>
 	
-	<tabTrigger>blog_subscribe</tabTrigger>
+	<tabTrigger>blog-subscribe</tabTrigger>
 	
 </snippet>

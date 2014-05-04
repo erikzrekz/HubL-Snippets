@@ -3,6 +3,6 @@
 	{% google_search "my_google_search" label="My Google Search", prefill_input_with_pathname=False, search_button_text="Search Google", search_field_label="Search this site on Google" %}
 	]]></content>
 
-	<tabTrigger>google_search</tabTrigger>
+	<tabTrigger>google-search</tabTrigger>
 
 </snippet>

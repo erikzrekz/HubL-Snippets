@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	{% text "my_text" label="My Text", value="" %}
+	]]></content>
+
+	<tabTrigger>text</tabTrigger>
+
+</snippet>
