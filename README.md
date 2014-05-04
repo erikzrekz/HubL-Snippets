@@ -1,6 +1,10 @@
 # HubSpot Supported Modules
 
-If you're a designer that likes coding templates out from scratch, here are some snippets for your Sublime Text 2. Each *token*, tab will inject HubL Tokens (http://designers.hubspot.com/docs/markup/supported-modules) into your template. 
+HubSpot uses HubL tokens for their templates modules (http://designers.hubspot.com/docs/markup/supported-modules). 
+
+When you're creating a template from scratch or editing a local file in Sublime Text 2, it's nice to have shortcuts to the HubL tokens. 
+
+*To Use:* Download and import all .sublime-snippet files to Library/Application Support/Sublime Text 2/Packages/User.  
 
 ## List of keybindings for modules
 - blog-filter, tab 
