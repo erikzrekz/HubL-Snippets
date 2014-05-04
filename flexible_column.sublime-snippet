@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+
+{% widget_container "Flexible_column_name" has_rows=False, overrideable=False, label='Flexible Column', params_str="overrideable=True, label='Flexible Column' ", is_row=False %} 
+  
+{% end_widget_container %} 
+
+	]]></content>
+
+		<tabTrigger>flex-column</tabTrigger>
+
+</snippet>

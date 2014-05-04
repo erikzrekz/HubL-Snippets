@@ -2,27 +2,28 @@
 
 If you're a designer that likes coding templates out from scratch, here are some snippets for your Sublime Text 2. Each *token*, tab will inject HubL Tokens (http://designers.hubspot.com/docs/markup/supported-modules) into your template. 
 
-## Here is a list of the keybindings
+## List of keybindings for modules
 - blog-filter, tab 
 - blog-listing-content, tab
 - blog-listing, tab
 - blog-post-content, tab
 - blog-subscribe, tab
-- form, tab
 - cta, tab
+- form, tab
 - google-search, tab
-- image, tab
 - header, tab
+- image, tab
 - logo, tab
 - password, tab
 - rich-text, tab
-- text, tab
 - rss, tab
 - section-header, tab
 - social, tab
+- text, tab
 
-## There are also helpful key bindings for Bootstrap 3 wrappers
-- widget-type
+## List of keybindings for Bootstrap 3 wrappers
+- flex-column, tab
+- widget-type, tab
 
 **All documentation for HubSpot can be found either at developers.hubspot.com or designers.hubspot.com.**
 
