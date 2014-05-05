@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	{% menu "my_menu" label="My Menu", flow="horizontal", flyouts="true", max_levels=4, root_key=None, root_type="site_root", site_map_name="default" %}
+	]]></content>
+
+	<tabTrigger>menu</tabTrigger>
+
+</snippet>

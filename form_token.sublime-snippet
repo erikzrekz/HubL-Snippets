@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-	{% menu "my_menu" label="My Menu", flow="horizontal", flyouts="true", max_levels=4, root_key=None, root_type="site_root", site_map_name="default" %}
+	{% form "my_form" label="My Form", custom_form_html=None, no_title=False, title="" %}
 	]]></content>
 
-	<tabTrigger>menu</tabTrigger>
+	<tabTrigger>form</tabTrigger>
 
 </snippet>
